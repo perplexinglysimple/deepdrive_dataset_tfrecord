@@ -1,4 +1,5 @@
 matplotlib
-tensorflow-gpu
+tensorflow
 numpy
 Pillow
+utils
